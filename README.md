@@ -1,7 +1,7 @@
 # Pizza Runner SQL Case Study 2
 
 ## Introduction
-In this repository, I created a query about Danny Ma’s SQL Case Study #2 titled Pizza Runner to test my skills in SQL queries. I wrote the query in SQL Server Management Studio 19 (SSMS19) if you will wonder why my syntax is different among other people who took up the Pizza Runner Challenge.My solutions are only for Pizza Metrics but there are four parts in this challenge which are Pizza Metrics, Runner and Customer Experience, Ingredient Optimisation, and Pricing and Ratings. 
+In this repository, I have created a SQL query related to Danny Ma's SQL Case Study #2, titled "Pizza Runner," to test my SQL query skills. I wrote the query using SQL Server Management Studio 19 (SSMS19). If you're wondering why my syntax differs from that of other people who participated in the Pizza Runner Challenge, it's because my solutions are focused only on Pizza Metrics. However, this challenge comprises four parts: Pizza Metrics, Runner and Customer Experience, Ingredient Optimization, and Pricing and Ratings.
 
 This covers some of the following SQL queries such as:
 
